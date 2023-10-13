@@ -5,7 +5,7 @@ This is the official link for all updates and resources materials for Egyptian r
 
 ## The prerequists for this course ⏰
 
-## 1- Python programming  <i class="fa-brands fa-python"></i>
+## 1- Python programming  
 
 As I referred to you that python programming will be the most important fundamental in our course structure, because of that I have provided you with two learning resrouces 
 
