@@ -30,7 +30,7 @@ As I referred to you that python programming will be the most important fundamen
 
 ## 3- Machine learning 
 
-**THE MOST IMPORTANT ONE**  
+<strong>THE MOST IMPORTANT ONE</strong>  
 
 
 
