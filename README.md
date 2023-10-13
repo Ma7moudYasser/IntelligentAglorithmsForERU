@@ -18,3 +18,26 @@ As I referred to you that python programming will be the most important fundamen
 
 
 
+## 2- Probability and statistics 
+
+1- [Probablistic system analysis course by MIT](https://youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe&si=AGNh7_uuu64RDsrY)
+
+
+## Linear Algebra and deep learning complete fundamentals 
+
+2- [Linear Algebra with Gilbert Strang](https://youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&si=Q_dHeedJ5Yfgk5xK)
+
+
+
+
+## 3- Machine learning 
+
+_This_is_the_most_important_one_  
+
+
+
+
+
+
+
+
