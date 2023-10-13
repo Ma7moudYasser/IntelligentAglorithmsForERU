@@ -1,0 +1,8 @@
+1- Understanding the fundamentals of Artificial Intelligence
+
+2- Beginning guide to neural networks
+
+3- Logic Functions problems 
+
+
+4- Introduction to tensorflow and Pytroch
