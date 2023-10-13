@@ -16,8 +16,6 @@ As I referred to you that python programming will be the most important fundamen
 2- [Mastering python with Eng Ossama Elzero](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=kAVtDHeEED4KK7BX)
 
 
-
-
 ## 2- Probability and statistics 
 
 1- [Probablistic system analysis course by MIT](https://youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe&si=AGNh7_uuu64RDsrY)
