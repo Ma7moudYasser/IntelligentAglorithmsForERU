@@ -24,3 +24,8 @@ Additionally, we will take a closer look at the wide-ranging applications of int
 
 ## Section description
 In this video, we explore the fascinating world of logic functions, linear separability, and the art of training the perceptron. We begin by unraveling the mysteries of logic functions, offering a clear explanation of how fundamental operations like AND, OR, and NOT gates function in processing binary data. With a solid grasp of these concepts, we dive into the concept of linear separability and its pivotal role in machine learning. You'll understand why linear separability is the key to data classification and how it relates to perceptrons and linear classifiers. Moreover, we guide you through the intricate process of training the perceptron, a foundational model in machine learning. By the end of this video, you'll be equipped with the knowledge and skills needed to apply these concepts effectively in real-world machine learning scenarios. Subscribe now and embark on a learning journey that will expand your horizons in the realm of intelligent algorithms.
+
+
+## <strong> Important Note </strong>
+
+### You can find a self learning file in the repo, it is optional for those who are interested in its reading
