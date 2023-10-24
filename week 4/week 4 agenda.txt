@@ -1,0 +1,13 @@
+Hands on gradient descent
+
+
+Implementing gradient descent in 1-D
+
+
+
+Coding challenge 
+
+
+
+Revision on forward propagation and backward propagation 
+ 
