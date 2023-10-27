@@ -1,0 +1,2 @@
+ANN for classification
+ANN for regression
