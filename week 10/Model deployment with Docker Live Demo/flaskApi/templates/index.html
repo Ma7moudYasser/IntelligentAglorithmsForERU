@@ -1,0 +1,30 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+  <form id="inputForm" style="text-align: center;">
+    <input type="file" name="file">
+        <div>
+          <button type="button" class="btn btn-info" onclick="getResult()" value="submit"
+            style="cursor: pointer;">Submit</button>
+        </div>
+  </form>
+
+  <div class="row" id="result">
+    
+  </div>
+
+<script>
+  function getResult() {
+    var form_data = new FormData($('#inputForm')[0]);
+    $.ajax({
+        type: 'POST',
+        url: '/predict',
+        data: form_data,
+        contentType: false,
+        cache: false,
+        processData: false,
+        success: function(data) {
+            $("#result").html(data);       
+        },
+    });
+}
+</script>
